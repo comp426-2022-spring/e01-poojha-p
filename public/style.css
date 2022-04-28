@@ -57,7 +57,7 @@ button.registerbtn {
   padding: 16px 20px;
   margin: 8px 0;
   /* 19. Set it to have no border */
-  
+  border: none;
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
@@ -69,13 +69,13 @@ button.registerbtn {
 
 a {
   /* 20. Make link text color navy blue (look up the hex code) */
-  color: ;
+  color: #000080;
   /* 21. Set the text-decoration to none for links */
-  text-decoration: ;
+  text-decoration: none;
 }
 
 /* 22. Set style for links using the :hover pseudoclass */
- {
+a:hover {
   /* 23. Change the color of links to azure on mouseover */
   
   /* 24. Set the text-decoration to underline for links on mouseover */
